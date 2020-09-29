@@ -22,6 +22,7 @@ Blacksquared | https://changers.com/ | Berlin
 Bike Citizens | https://www.bikecitizens.net/ | Berlin
 BRYTER | https://bryter.io | full remote, shared office spaces in Frankfurt a.M. / Berlin / London
 Crate.io | https://crate.io/ | Berlin
+Conceptboard | https://conceptboard.com/ |Stuttgart
 Cultured Code | https://culturedcode.com/things/ | Stuttgart
 digitalminds.io | https://www.digitalminds.io | Berlin
 easybill | https://www.easybill.de/ | Duesseldorf
